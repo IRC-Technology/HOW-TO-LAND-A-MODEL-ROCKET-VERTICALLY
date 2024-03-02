@@ -1,2 +1,5 @@
 # HOW-TO-LAND-A-MODEL-ROCKET-VERTICALLY
 HOW TO LAND A MODEL ROCKET VERTICALLY 
+Perhaps most readers will remember when they saw the first SpaceX demonstration of a rocket stage landing vertically on the pad under control. It’s something of a shock to be reminded that their first suborbital demonstration “hops” were around a decade ago, and how quickly what was once so special has become commonplace. 
+The basics of the system revolve around a directed rocket nozzle, but to make it work is a lot more complex than simply hooking up a flight controller and calling it good. The steps in arriving at a landable rocket are examined, with plenty of failures shown along the way. Even the legs are more complex than they might appear, having to combine lightness, ease of unfurling under the power of elastic, and enough strength and give to survive a rough landing.
+Those of us from countries where model rocketry is a highly licensed activity can only look on in envy at these projects, and we look forward to seeing where this avenue leads next. 
